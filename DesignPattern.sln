@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{A2A70C3A-2F06-421E-9056-F2088D4892ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov", "Liskov\Liskov.csproj", "{F9D91D1A-D8A6-42BD-BDF2-103C88583490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A70C3A-2F06-421E-9056-F2088D4892ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A70C3A-2F06-421E-9056-F2088D4892ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A70C3A-2F06-421E-9056-F2088D4892ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A70C3A-2F06-421E-9056-F2088D4892ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D91D1A-D8A6-42BD-BDF2-103C88583490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D91D1A-D8A6-42BD-BDF2-103C88583490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D91D1A-D8A6-42BD-BDF2-103C88583490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D91D1A-D8A6-42BD-BDF2-103C88583490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
