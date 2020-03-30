@@ -2,6 +2,8 @@
 
 namespace FacetedBuilder
 {
+    
+    // all done with builder pattern
     public class Person
     {
         // address 
